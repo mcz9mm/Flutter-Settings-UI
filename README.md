@@ -1,16 +1,17 @@
-# fluttersettingsui
+# Flutter Settings UI
+![Flutter](https://img.shields.io/badge/platform-Flutter-blue.svg) [![Twitter Follow](https://img.shields.io/twitter/follow/mcz9mm.svg?style=social)](https://twitter.com/mcz9mm)
 
-A new Flutter application.
+It is a simple application that implements the UI of the application setting screen.
 
-## Getting Started
+## 📸 ScreenShots
 
-This project is a starting point for a Flutter application.
+<img src="ss/1.png"/>
 
-A few resources to get you started if this is your first Flutter project:
+| Light Mode | Dark Mode|
+|------|-------|
+|<img src="https://user-images.githubusercontent.com/11751495/82136935-2ee74180-984e-11ea-9828-588fbc59b857.png" width="400">|<img src="https://user-images.githubusercontent.com/11751495/82136936-31499b80-984e-11ea-9fbd-402f99bd8924.png" width="400">|
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+Flutter-Settings-UI is released the MIT license.
+
