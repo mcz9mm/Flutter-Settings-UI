@@ -5,8 +5,6 @@ It is a simple application that implements the UI of the application setting scr
 
 ## 📸 ScreenShots
 
-<img src="ss/1.png"/>
-
 | Light Mode | Dark Mode|
 |------|-------|
 |<img src="https://user-images.githubusercontent.com/11751495/82136935-2ee74180-984e-11ea-9828-588fbc59b857.png" width="400">|<img src="https://user-images.githubusercontent.com/11751495/82136936-31499b80-984e-11ea-9fbd-402f99bd8924.png" width="400">|
